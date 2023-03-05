@@ -6,6 +6,12 @@
     src: url("Res/Fonts/萝莉体.ttf");
 }
 
+@font-face
+{
+    font-family: "Cotyledon";
+    src: url("Data/Fonts/Cotyledon-Regular.ttf");
+}
+
 #body
 {
     margin：0px
